@@ -1,0 +1,11 @@
+{
+  "name": "xfl",
+  "url": "http://github.com/haxenme/xfl",
+  "license": "MIT",
+  "tags": ["cpp","flash"],
+  "description": "Provides support for parsing and rendering XFL content.",
+  "version": "1.04.0",
+  "releasenote": "Update for Neko 2",
+  "contributors": ["singmajesty"],
+  "dependencies": {}
+}
